@@ -227,7 +227,7 @@ details[open] > summary::after {
 .promo {
   display: flex;
   height: 613px;
-  background-image: url(img/promo.png);
+  background-image: url(../img/promo.png);
   background-position: center -51px;
 }
 
@@ -288,13 +288,13 @@ details[open] > summary::after {
   width: 560px;
   height: 542px;
   margin-bottom: 20px;
-  background-image: url(img/hotdeal_big_1.png);
+  background-image: url(../img/hotdeal_big_1.png);
 }
 
 .badge_small_1 {
   width: 560px;
   height: 261px;
-  background-image: url(img/hotfeal_small_1.png);
+  background-image: url(../img/hotfeal_small_1.png);
   overflow: hidden;
 }
 
@@ -302,13 +302,13 @@ details[open] > summary::after {
   width: 560px;
   height: 261px;
   margin-bottom: 20px;
-  background-image: url(img/hotdeal_small_2.png);
+  background-image: url(../img/hotdeal_small_2.png);
 }
 
 .badge_big_2 {
   width: 560px;
   height: 542px;
-  background-image: url(img/hotdeal_big_2.png);
+  background-image: url(../img/hotdeal_big_2.png);
 }
 
 .badge_text {
@@ -433,7 +433,7 @@ details[open] > summary::after {
 .button_browse_pink_link:hover::after {
   margin-left: 9px;
   position: absolute;
-  content: url(img/row.png);
+  content: url(../img/row.png);
 }
 
 .button_browse_pink_link {
@@ -452,7 +452,7 @@ details[open] > summary::after {
 }
 
 .banner {
-  background-image: url(img/banner.jpg);
+  background-image: url(../img/banner.jpg);
   height: 529px;
   width: 767px;
 }
@@ -481,7 +481,7 @@ details[open] > summary::after {
 .featured_block {
   height: 529px;
   width: 373px;
-  background-image: url(img/featured_block.png);
+  background-image: url(../img/featured_block.png);
 }
 
 .featured_box {
@@ -512,7 +512,7 @@ details[open] > summary::after {
 }
 
 .subscribe_container {
-  background-image: url(img/subscribe.jpg);
+  background-image: url(../img/subscribe.jpg);
   background-repeat: no-repeat;
   background-position: center;
   margin-top: 97px;
