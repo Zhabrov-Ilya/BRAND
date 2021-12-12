@@ -1,5 +1,5 @@
 # BRAND
 Первый учебный проект по вёрстке
 
-[https://zhabrov-ilya.github.io/BRAND/index.html](-- просмотр на GitHub Pages "Brand")
+[Просмотр на GitHub Pages](https://zhabrov-ilya.github.io/BRAND/index.html "BRAND")
 >В планах доработать внешний вид, свести все HTML файлы в один, который будет генерироваться при помощи JS, и реализовать корзину
